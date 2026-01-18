@@ -1,4 +1,5 @@
-## This is a DIY. scp function . When you test your script in a VM machine or a remote server , you can use it to upload your resource without input password every times.
+## This is a DIY. scp function . 
+### When you test your script in a VM machine or a remote server , you can use it to upload your resource without input password every times.
 ### It use scp command ,and take care of the password. When exit ,it release/flush the password it held.
 
 ### How 2 use:
